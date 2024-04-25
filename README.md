@@ -1,4 +1,4 @@
-# CU_GeoSAM
+# Geospatial Segment Anything Model (GeoSAM) : Case Study at Chulalongkorn University (CU_GeoSAM)
 Geospatial Segment Anything Model (GeoSAM) : Case Study at Chulalongkorn University
 งานวิจัยการใช้แบบจำลองการแยกแยะทุกสิ่งอย่างเชิงภูมิปริภูมิในการสกัดข้อมูลรอยพิมพ์ฐานอาคาร กรณีศึกษาอาคารในคณะวิทยาศาสตร์และวิศวกรรมศาสตร์ จุฬาลงกรณ์มหาวิทยาลัย
 
